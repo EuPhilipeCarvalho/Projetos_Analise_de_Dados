@@ -1,0 +1,24 @@
+# Padronizar quebras de linha em LF (compatível com Linux/GitHub)
+* text=auto eol=lf
+
+# Notebooks Jupyter sempre tratados como texto
+*.ipynb text
+
+# CSVs sempre tratados como texto
+*.csv text
+
+# Arquivos Markdown tratados como texto
+*.md text
+
+# Arquivos de código fonte tratados como texto
+*.py text
+*.R text
+
+# Arquivos binários não devem ser alterados
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.exe binary
