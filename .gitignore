@@ -1,5 +1,5 @@
 # Arquivos de configuração do PyCharm
-.idea/
+.idea
 
 # Cache do Python
 __pycache__/
