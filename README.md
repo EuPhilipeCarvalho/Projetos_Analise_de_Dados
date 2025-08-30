@@ -4,11 +4,11 @@
 Este repositório reúne projetos desenvolvidos durante meus estudos de Análise de Dados e Machine Learning.
 Cada pasta representa um projeto independente, contendo:
 
-Notebooks Jupyter com código comentado
+- Notebooks Jupyter com código comentado
 
-Bases de dados utilizadas
+- Bases de dados utilizadas
 
-README específico com explicação detalhada
+- README específico com explicação detalhada
 
 ---
 ## 📂 Estrutura dos Projetos
@@ -39,7 +39,7 @@ README específico com explicação detalhada
 ---
 ## 🛠 Tecnologias Utilizadas
 
-- Python 3
+- Python 
 
 - Pandas
 
