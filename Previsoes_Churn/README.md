@@ -31,7 +31,7 @@ A solução foi desenvolvida em **Python** dentro de um **notebook Jupyter**, ex
 
 Distribuição da variável alvo (**Churn**):
 
-![Distribuição do Churn](imgs/distribuicao_churn.png)
+![Distribuição do Churn](imgs/distribuicao_Churn.png)
 
 ---
 
@@ -39,7 +39,7 @@ Distribuição da variável alvo (**Churn**):
 
 Análise das variáveis que mais impactaram a previsão do churn:
 
-![Importância das Features](imgs/importancia_features.png)
+![Importância das Features](imgs/importancia_Features.png)
 
 
 
