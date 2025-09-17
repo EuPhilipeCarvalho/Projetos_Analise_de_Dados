@@ -33,7 +33,7 @@ dist/
 *.parquet
 *.db
 
+.gitattributes
 =======
 .idea/
-.gitattributes
 >>>>>>> stage
