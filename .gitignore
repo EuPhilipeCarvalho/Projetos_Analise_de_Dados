@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Arquivos de configuração do PyCharm
 .idea/
 
@@ -28,8 +29,10 @@ dist/
 *.egg-info/
 
 # Dados grandes (opcional, remova se quiser subir CSVs)
-*.csv
 *.xlsx
 *.parquet
 *.db
 
+=======
+.idea/
+>>>>>>> stage
